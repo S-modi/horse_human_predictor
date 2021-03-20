@@ -1,4 +1,6 @@
 THIS IS IMAGE CLASSIFICATION PROBLEM WHICH PREDICTED WHEATER THE PICTURE IS OF HUMAN OR HORSE USING TRANSFER LEARNING TECHNIQUE ie, MOBILE-NET.
+
+DATASET link : https://www.kaggle.com/sanikamal/horses-or-humans-dataset
     	
      	
       
